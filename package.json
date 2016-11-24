@@ -1,0 +1,11 @@
+{
+  "name": "simple-web-scraper-for-cbse-board-scores-2015",
+  "version": "0.0.0",
+  "description": "A simple web scraper made using modules Request and Cheerio.",
+  "main": "server.js",
+  "author": "Vijit Dhingra",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
