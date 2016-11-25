@@ -48,3 +48,6 @@ Temporary Items
 
 # Diectories to not include intentionally
 /node_modules/*
+
+#data files to not include intentionally
+*.csv
